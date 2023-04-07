@@ -1,2 +1,2 @@
-# Day1
-Bài tập Day 1
+# API Practices lessons
+Bài tập 15 days
